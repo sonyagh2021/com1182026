@@ -1,2 +1,2 @@
 # com1182026
-practicas de python
+Este archivo de pseInt calcula los estadisticos descriptivos de los salarios almacenados en un arreglo 
